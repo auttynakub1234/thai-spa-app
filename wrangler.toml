@@ -1,0 +1,19 @@
+name = "thai-spa-app"
+compatibility_date = "2024-01-01"
+pages_build_output_dir = "dist"
+
+# D1 binding
+[[d1_databases]]
+binding = "DB"
+database_name = "spa-database"
+# database_id will be added after creating D1
+
+# R2 bucket for assets (slips, menu images)
+[[r2_buckets]]
+binding = "BUCKET"
+bucket_name = "spa-assets"
+
+[preview]
+  wrangler_version = "3"
+[production]
+  wrangler_version = "3"
