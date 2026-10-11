@@ -96,3 +96,4 @@ MIT – feel free to adapt and extend.
 
 ---
 *Built with ❤️ for Thai spa owners who want a fast, zero‑cost, edge‑native solution.*
+# Thai-Spa-Luxury-app
